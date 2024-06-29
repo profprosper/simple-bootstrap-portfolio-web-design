@@ -1,0 +1,81 @@
+.bak{
+    background-color:tomato;
+}
+.navs{
+   
+}
+.navspace{
+    display: inline;
+    margin: 5px; 
+    
+}
+.list{
+  text-decoration: none; 
+  color: white;
+}
+.bgs{
+    background-color:palevioletred;
+}
+.center{
+    justify-content: center;
+}
+.baground{
+    background-color:tomato;
+    font-size: 20px;
+}
+.with{
+    width:30%;
+}
+.head{
+    font-size: 50px;
+}
+.hite-1{
+    height: 50px;
+    width: 10px;
+   margin-top:150px;
+   background-color: tomato;
+  
+   
+  
+}
+.hite-2{
+    height: 100px;
+    width: 10px;
+   margin-top:100px; 
+   background-color: tomato; 
+}
+ 
+.hite-3{
+    height: 150px;
+    width:10px;
+   margin-top:50px; 
+   background-color: tomato; 
+  
+}
+.hite-4{
+    height: 180px;
+    width: 10px;
+   margin-top:20px;
+   background-color: tomato;  
+  
+}
+.dott {
+    height: 200px;
+    width: 200px;
+    background-color: tomato;
+    border-radius: 50%;
+    display: inline-block;
+  }
+.image{
+   color: tomato;
+    height: 200px;
+    width: 200px;
+    background-color: tomato;
+    border-radius: 50%;
+    display: inline-block;
+  }
+.powers{
+    font-size: 60px;
+    
+    color: tomato;
+}
